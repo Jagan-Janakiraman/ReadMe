@@ -15,7 +15,8 @@
 
 
 <br>   
-- **FrameWorks**:
+    
+- **Frame Works**:
     
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
