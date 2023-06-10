@@ -1,12 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jagan Janakiraman</h1>
 <h3 align="center">Student at VIT, Vellore🌟.</h3>
 
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### HEY guys, I am Jagan
+- 🔭 I’m currently working on my Django app :grin:
+- 🌱 I’m currently learning AWS.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 💬 Ask me about anything, I am happy to help :smile:
+- ⚡ Fun fact: I love Gaming, Travelling, Cooking :raised_hands:
+
+<br>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 <p align="center">
-  
+ <div>
 - **Languages || Database || Frameworks**:
   
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -20,7 +31,8 @@
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-   
+</div>
+<div>
 - **Softwares and Tools**:
   
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,7 +43,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
+</div>
 
 </p>
 
